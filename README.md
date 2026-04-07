@@ -17,7 +17,7 @@
 
 ### 👁️ Profile Views
 
-<img src="https://komarev.com/ghpvc/?username=Parmarprashant&style=for-the-badge&color=bd93f9&label=PROFILE+VIEWS" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/Parmarprashant?style=for-the-badge&color=bd93f9&label=FOLLOWERS&logo=github" alt="GitHub Followers" /> <img src="https://img.shields.io/github/stars/Parmarprashant?style=for-the-badge&color=bd93f9&label=TOTAL+STARS&logo=github" alt="GitHub Stars" />
+<img src="https://komarev.com/ghpvc/?username=Parmarprashant&style=for-the-badge&color=bd93f9&label=PROFILE+VIEWS" alt="Profile Views" />  <img src="https://img.shields.io/github/stars/Parmarprashant?style=for-the-badge&color=bd93f9&label=TOTAL+STARS&logo=github" alt="GitHub Stars" />
 
 </div>
 
