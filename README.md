@@ -103,27 +103,23 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Parmarprashant&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&border_radius=10" height="165" alt="stats graph" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=ParmarPrashant&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&border_radius=10" height="165" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Parmarprashant&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&border_radius=10" height="165" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parmarprashant&layout=compact&langs_count=6&theme=dracula&hide_border=true&border_radius=10" height="165" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anisha-Chhajer-Jain&theme=dracula&hide_border=true&border_radius=10" height="165" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parmarprashant&theme=dracula&hide_border=true&border_radius=10" height="165" />
 </div>
 
 ---
 
-<!-- GITHUB METRICS DASHBOARD -->
-
-
-
-<!-- ACTIVITY GRAPH -->
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parmarprashant&theme=dracula&hide_border=true&radius=10" width="95%" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parmarprashant&theme=dracula&hide_border=true&radius=10" width="95%" />
 </div>
 
 ---
