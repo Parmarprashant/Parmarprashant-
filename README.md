@@ -50,6 +50,10 @@
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/channel/UCfusctJZ4sV_hc31nfF3EuQ)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/parmarprashant/)
 
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
+
 ## 🛠️ Tech Stack
 
 <div align="center">
