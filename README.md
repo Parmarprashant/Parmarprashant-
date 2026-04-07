@@ -10,12 +10,25 @@
 </p>
 
 
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/prashant-parmar-0700373a1/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://prashantparmar989.netlify.app/) <a href="https://drive.google.com/file/d/1n-VuI_apXRSqF1KR-XxWryoyRHIvji9B/view?usp=drive_link" download> <img src="https://img.shields.io/badge/Resume-Download-1E90FF?style=for-the-badge&logo=files&logoColor=white" /> </a>
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/channel/UCfusctJZ4sV_hc31nfF3EuQ)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/parmarprashant/)
+<!-- PROFILE VIEWS -->
+<div align="center">
+
+### 👁️ Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=Parmarprashant&style=for-the-badge&color=bd93f9&label=PROFILE+VIEWS" alt="Profile Views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/Parmarprashant?style=for-the-badge&color=bd93f9&label=FOLLOWERS&logo=github" alt="GitHub Followers" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/Parmarprashant?style=for-the-badge&color=bd93f9&label=TOTAL+STARS&logo=github" alt="GitHub Stars" />
+
+</div>
+
+---
+
+
 
 
 ## 👩‍💻 About Me
@@ -29,6 +42,12 @@
 - 🤝 Enjoy collaborating and working in **team environments**  
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/prashant-parmar-0700373a1/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://prashantparmar989.netlify.app/) <a href="https://drive.google.com/file/d/1n-VuI_apXRSqF1KR-XxWryoyRHIvji9B/view?usp=drive_link" download> <img src="https://img.shields.io/badge/Resume-Download-1E90FF?style=for-the-badge&logo=files&logoColor=white" /> </a>
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/channel/UCfusctJZ4sV_hc31nfF3EuQ)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/parmarprashant/)
 
 ## 🛠️ Tech Stack
 
