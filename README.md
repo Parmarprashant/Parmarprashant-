@@ -13,15 +13,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
 
-<!-- PROFILE VIEWS -->
-<div align="center">
-
+### 👁️ Profile Views
 
 
 <img src="https://komarev.com/ghpvc/?username=Parmarprashant&style=for-the-badge&color=bd93f9&label=PROFILE+VIEWS" alt="Profile Views" />
 &nbsp;
-
-</div>
+<img src="https://img.shields.io/github/followers/Parmarprashant?style=for-the-badge&color=bd93f9&label=FOLLOWERS&logo=github" alt="GitHub Followers" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/Parmarprashant?style=for-the-badge&color=bd93f9&label=TOTAL+STARS&logo=github" alt="GitHub Stars" />
 
 ---
 
