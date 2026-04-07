@@ -104,7 +104,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Parmarprashant&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&border_radius=10" height="165" alt="stats graph" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=ParmarPrashant-Jain&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&border_radius=10" height="165" alt="languages graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=ParmarPrashant&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&border_radius=10" height="165" alt="languages graph" />
 </div>
 
 <br>
