@@ -102,9 +102,9 @@
 <!-- GITHUB STATS -->
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parmarprashant&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&border_radius=10&cache_seconds=86400" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Parmarprashant&theme=dracula" height="165" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parmarprashant&layout=compact&langs_count=6&theme=dracula&hide_border=true&border_radius=10&cache_seconds=86400" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Parmarprashant&theme=dracula" height="165" />
 </div>
 <br>
 <div align="center">
