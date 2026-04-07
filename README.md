@@ -139,7 +139,7 @@
 
 <br><br>
 
-<a href="https://prashantparmar9899.netlify.com" target="_blank">
+<a href="https://prashantparmar989.netlify.com" target="_blank">
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Portfolio-bd93f9?style=for-the-badge&labelColor=282a36" />
 </a>
 
