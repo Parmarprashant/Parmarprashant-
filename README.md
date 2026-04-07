@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=bd93f9&height=200&section=header&text=Anisha%20Chhajer&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%E2%9A%A1%20Full-Stack%20Developer%20(MERN)%20%E2%80%A2%20Open-Source%20Enthusiast%20%E2%80%A2%20India%20%F0%9F%87%AE%F0%9F%87%B3&descSize=16&descAlignY=55&descColor=ffffff" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=bd93f9&height=200&section=header&text=Prashant%20Parmar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%E2%9A%A1%20Full-Stack%20Developer%20(MERN)%20%E2%80%A2%20Open-Source%20Enthusiast%20%E2%80%A2%20India%20%F0%9F%87%AE%F0%9F%87%B3&descSize=16&descAlignY=55&descColor=ffffff" width="100%" alt="Header" />
 </div>
 
 <br>
@@ -103,8 +103,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anisha-Chhajer-Jain&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&border_radius=10" height="165" alt="stats graph" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Anisha-Chhajer-Jain&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&border_radius=10" height="165" alt="languages graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Parmarprashant&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&border_radius=10" height="165" alt="stats graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=ParmarPrashant-Jain&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&border_radius=10" height="165" alt="languages graph" />
 </div>
 
 <br>
@@ -123,7 +123,7 @@
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anisha-Chhajer-Jain&theme=dracula&hide_border=true&radius=10" width="95%" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parmarprashant&theme=dracula&hide_border=true&radius=10" width="95%" alt="activity graph" />
 </div>
 
 ---
@@ -143,21 +143,21 @@
 
 <br><br>
 
-<a href="https://anishachhajer.netlify.app/" target="_blank">
+<a href="https://prashantparmar9899.netlify.com" target="_blank">
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Portfolio-bd93f9?style=for-the-badge&labelColor=282a36" />
 </a>
 
-<a href="https://www.linkedin.com/in/anisha-chhajer-844114367/" target="_blank">
+<a href="https://www.linkedin.com/in/prashant-parmar-0700373a1/" target="_blank">
   <img src="https://img.shields.io/badge/%E2%9C%A6%20LinkedIn-bd93f9?style=for-the-badge&labelColor=282a36" />
 </a>
 
-<a href="mailto:anishachhajer16@gmail.com">
+<a href="mailto:prashantparmar9919@gmail.com">
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Email-bd93f9?style=for-the-badge&labelColor=282a36" />
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Designed%20%26%20Built%20with%20%E2%9D%A4%EF%B8%8F%20by-Anisha%20Chhajer-bd93f9?style=flat-square&labelColor=282a36" />
+<img src="https://img.shields.io/badge/Designed%20%26%20Built%20with%20%E2%9D%A4%EF%B8%8F%20by-Prashant%20Parmar-bd93f9?style=flat-square&labelColor=282a36" />
 
 <br>
 
